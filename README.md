@@ -1,4 +1,4 @@
-In this project, i've built a **Password Manager** 
+In this project, i've built a **Password Manager** application
 
 Live link - **https://gk05pswdMan.ccbp.tech**
 
@@ -16,6 +16,7 @@ Technologies Used- **HTML, CSS, JAVASCRIPT, React.Js**
 <br/>
 
 
+-----------------------------------------------------------------------------------------------------
 
 ### Completion Instructions
 <br/>
