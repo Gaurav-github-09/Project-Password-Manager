@@ -36,4 +36,4 @@ This app have the following functionalities
   - The respective password item will be deleted from the list of passwords
   - The passwords count will be decremented by one
 - When all password items are deleted, then [No Passwords View](https://assets.ccbp.in/frontend/content/react-js/password-manager-no-passwords-lg-output.png) will be displayed
-# Project-Password-Manager
+--------------------------------------------------------------------------------------------------------------------------------
