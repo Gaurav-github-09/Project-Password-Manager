@@ -1,0 +1,121 @@
+.passCont {
+  margin: 10px;
+  padding: 5px 0px 20px 0px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: #7683cb solid 3px;
+}
+
+.passwordCont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.forlen {
+  border: solid 2px #94a3b8;
+  border-radius: 5px;
+  margin-left: 5px;
+  padding: 2px 10px 2px 10px;
+}
+.unordered {
+  list-style-type: none;
+  margin: 0px;
+  padding: 5px 15px 5px 15px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.input {
+  outline: none;
+  border: none;
+  padding: 5px;
+  font-size: xx-small;
+  font-family: Roboto;
+  color: #64748b;
+  font-weight: bold;
+  width: 100%;
+}
+.checkCont {
+  padding: 10px 30px 10px 25px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.pswd {
+  font-size: small;
+  font-weight: 500;
+  color: #ffffff;
+}
+.check {
+  color: #64748b;
+  height: 20px;
+  width: 20px;
+  padding: 5px;
+  margin-right: 5px;
+}
+.passPara {
+  font-size: medium;
+  color: #ffffff;
+  font-weight: 500;
+}
+.searchIcon {
+  height: 25px;
+  width: 25px;
+}
+.sIcCONT {
+  padding: 5px;
+  flex-wrap: wrap;
+
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  border-right: #94a3b8 solid 1px;
+}
+.searchCont {
+  display: flex;
+  border-radius: 3px;
+  background-color: #ffffff;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  border: #94a3b8 solid 1px;
+}
+.noPswdImage {
+  align-self: center;
+  height: 250px;
+  width: 300px;
+  margin-bottom: 25px;
+  display: flex;
+}
+
+@media (min-width: 600px) {
+  .noPswdImage {
+    height: 400px;
+    width: 550px;
+  }
+}
+
+.imgNoPswdCont {
+  flex-wrap: wrap;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.paraNoPswd {
+  font-weight: 500;
+  font-size: large;
+  color: #ffffff;
+}

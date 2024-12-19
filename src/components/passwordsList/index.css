@@ -1,0 +1,89 @@
+.listel {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 15px;
+  width: 31%;
+  margin: 6px;
+  min-height: 17vh;
+  border: #7683cb solid 2px;
+  border-radius: 14px;
+}
+@media (min-width: 1200px) {
+  .listel {
+    margin: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .listel {
+    width: 100%;
+  }
+}
+
+.listcard1 {
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  justify-content: flex-start;
+  align-items: center;
+}
+.web {
+  font-size: smaller;
+  margin-bottom: 13px;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.web1 {
+  font-size: small;
+  font-weight: bold;
+}
+
+.stars {
+  height: 10px;
+  max-width: 90px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.logoAlphabet {
+  color: #ffffff;
+  padding: 7px 12px 7px 12px;
+  border-radius: 75px;
+  font-size: large;
+  font-weight: 400;
+  background-color: black;
+  margin: 0px 10px 0px 10px;
+}
+
+.detCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.pass {
+  color: #ffffff;
+  font-size: x-small;
+  font-weight: bold;
+}
+
+.delBtn {
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  padding: 5px;
+}
+
+.delImg {
+  height: 22px;
+  width: 22px;
+}
+
