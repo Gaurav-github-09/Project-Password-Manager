@@ -18,10 +18,7 @@ Technologies Used- **HTML, CSS, JAVASCRIPT, React.Js**
 
 -----------------------------------------------------------------------------------------------------
 
-### Completion Instructions
-<br/>
-
-This app have the following functionalities
+### This app have the following functionalities
 
 - Initially, the website input, username input, and password input will be empty and [No Passwords View](https://assets.ccbp.in/frontend/content/react-js/password-manager-no-passwords-lg-output.png) will be displayed
 - When non-empty values are provided for the website, username, and password and the **Add** button is clicked,
